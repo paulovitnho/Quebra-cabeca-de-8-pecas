@@ -1,11 +1,12 @@
-# Introdução
+# Quebra-cabeca-de-8-pecas
+
+## Introdução
 Este projeto implementa soluções para um quebra-cabeça 8 (3x3) utilizando algoritmos de busca: Busca em Largura (BFS) e A*. O código permite mover peças e encontra o caminho mais curto para a configuração final desejada. É uma ótima maneira de entender conceitos de algoritmos de busca e heurísticas em programação.
 
 ## Índice
-Introdução
-Habilidades Adquiridas
-Como Executar
-Habilidades Adquiridas
+- Introdução
+- Habilidades Adquiridas
+- Como Executar
 
 ## NOS APREDEMOS:
 Compreensão dos algoritmos de busca em largura e A*
