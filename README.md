@@ -16,10 +16,11 @@ Python: manipulação de strings, listas e funções
 
 ## Como Executar
 Para executar este código, você precisará ter o Python instalado em sua máquina. Siga os passos abaixo:
-Dentro do Terminal
-Execute o código:
-Copy code
-python (nome do projeto).py
+
+- 1. CRIE UMA PASTA
+- 2. PEGUE O ARQUIVO main.py ARRASTA PRO ARQUIVO QUE VOCE CRIOU
+- 3. COM BOTAO DIREITO DO MOUSE VAI EM ABRIR TERMINAL
+- 4. DENTRO DO TERMINAL VOCE VAI DIGITAR python main.py (lembre-se de que o python deve estar instalado em sua maquina)
 
 Certifique-se de que o código esteja no mesmo diretório do arquivo.
 
