@@ -1,21 +1,19 @@
-Introdução
+#Introdução
 Este projeto implementa soluções para um quebra-cabeça 8 (3x3) utilizando algoritmos de busca: Busca em Largura (BFS) e A*. O código permite mover peças e encontra o caminho mais curto para a configuração final desejada. É uma ótima maneira de entender conceitos de algoritmos de busca e heurísticas em programação.
 
-Índice
+#Índice
 Introdução
 Habilidades Adquiridas
 Como Executar
-Contribuindo
-Créditos e Licença
 Habilidades Adquiridas
 
-NOS APREDEMOS:
+#NOS APREDEMOS:
 Compreensão dos algoritmos de busca em largura e A*
 Manipulação de estruturas de dados, como listas e matrizes
 Implementação de heurísticas para problemas de otimização
 Python: manipulação de strings, listas e funções
 
-Como Executar
+#Como Executar
 Para executar este código, você precisará ter o Python instalado em sua máquina. Siga os passos abaixo:
 Dentro do Terminal
 Execute o código:
